@@ -1,5 +1,0 @@
-Height: 172cm
-Weight: 77.10kg
-BMI: 26.05
-Body Fat 23.3%
-Muscle Mass 42.9% 
